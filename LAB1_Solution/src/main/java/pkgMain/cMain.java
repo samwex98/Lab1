@@ -1,6 +1,6 @@
 package pkgMain;
 //Sam Wekselblatt, Kirstie Niessen, Ben Shopp, Joseph Stapleton
-//We all worked equally 
+//We all worked equally
 import java.util.Scanner;
 
 import org.apache.poi.ss.formula.functions.*;
